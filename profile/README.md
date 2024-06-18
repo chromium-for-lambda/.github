@@ -8,7 +8,7 @@ Welcome to Chromium for Lambda, a collection of repositories providing pre-built
 - Thorough testing for basic use cases
 
 ## Commercial Offering
-For an additional benefit, subscribe to our commercial offering at [chromiumforlambda.org](https://chromiumforlambda.org) and enjoy:
+For an additional benefit, subscribe to our commercial offering at [pro.chromiumforlambda.org](https://pro.chromiumforlambda.org) and enjoy:
 - Priority email support
 - Early access to new binaries
 
